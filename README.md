@@ -17,22 +17,22 @@ The value of integration for one point is 5.437
 
 ## Output of Gauss-Laguerre Method
 
-Result using Gauss-Legendre method: 0.6614392932961326
+Result using Gauss-Legendre Transform Method is 0.6614392932961326
 <br>
-Result using Gauss-Laguerre method: 0.4106533708263561
+Result using Gauss-Laguerre Original Method is 0.5000005097999474
 <br>
-Error between methods: 0.2507859224697765
+Error between these method is 0.16143878349618523
 <br>
 
-![laguerre final](https://github.com/user-attachments/assets/b5a7cdcd-77b1-4fa8-845d-63c310356e0f)
+![r1](https://github.com/user-attachments/assets/9e5f5cd5-07b7-435b-9b25-1818803cb778)
 
 ## Output of Gauss-Hermite Method
 
-Result using  Gauss-Legendre method: 1.387539869008932
+Result using Gauss-Legendre Transform Method is 1.387539869008932
 <br>
-Result using  Gauss-Hermite method: 1.226350553414086
+Result using Gauss-Hermite Original Method is 1.380388447043141
 <br>
-The error between these results is 0.16118931559484606
+Error between these method is 0.007151421965791105
 <br>
 
-![hermite final 1](https://github.com/user-attachments/assets/d06a24ae-d034-47e3-927f-9d9de2632a48)
+![h1](https://github.com/user-attachments/assets/5bce0e92-1c1d-4de5-9685-7954fa9130bf)
